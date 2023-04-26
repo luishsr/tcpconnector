@@ -1,3 +1,3 @@
-module github.com/luishsr/tcpconnector/connector
+module github.com/luishsr/tcpconnector
 
 go 1.19
