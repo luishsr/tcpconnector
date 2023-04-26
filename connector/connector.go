@@ -6,5 +6,5 @@ import (
 
 func Connect() string {
 	fmt.Println("Connect() method invoked")
-	return "Connected"
+	return "Connected."
 }
