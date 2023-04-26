@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/luishsr/tcpconnector"
+	"github.com/luishsr/tcpconnector/connector"
 )
 
 func main() {
