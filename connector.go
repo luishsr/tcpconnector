@@ -8,14 +8,14 @@ import (
 
 // represent each connected device
 type Party struct {
-	address string
-	name    string
-	role    string
+	Address string
+	Name    string
+	Role    string
 }
 
 type Message struct {
-	mtype int
-	value string
+	Mtype int
+	Value string
 }
 
 // a list of connected parties
